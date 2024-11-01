@@ -1,0 +1,208 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+REGNO :
+
+MODEL EXAM I - September - 2024
+Subject : Transforms and Partial Differential Equations
+            Code : MA1301
+Branch : BIO,EEE & MECH
+            Sem : III
+DURATION : 3 hours
+            MAX MARKS: 100
+
+CO2:
+
+Learn Fourier series analysis which plays a vital role in the application of electrical engineering, vibration analysis, acoustics, optics, signal and image processing.
+CO3:
+
+Appreciate the physical significance of Fourier series techniques in solving one and two dimensional heat flow problems and one dimensional wave equations and this concept is applied in the fields like elasticity, heat transfer ,quantum mechanics and also extensively in physical phenomenon.
+
+BL - Bloom’s Taxonomy Levels 
+(L1-Remembering, L2-Understanding, L3-Applying, L4-Analysing, L5-Evaluating, L6-Creating)
+
+PART - A       (10 X 2 = 20 Marks)
+Q.No
+Questions
+Marks
+BL
+CO
+1.
+State the Euler’s formula for Fourier coefficients of a function f (x) defined in (0,2).
+(2)
+L1
+CO2
+2.
+Find the constant term in the expression of  as a Fourier series in the interval .
+(2)
+L3
+CO2
+3.
+Find the Fourier constant bn for x sinx in , when expressed as a Fourier series.
+(2)
+L3
+CO2
+4.
+State Parseval’s theorem in the interval .
+(2)
+L1
+CO2
+5.
+Find the value of the Fourier series for  at x =1.
+(2)
+L3
+CO2
+6.
+State any two assumptions made in the derivation of the one dimensional wave equation.
+(2)
+L1
+CO3
+7.
+A tightly stretched string of length  has its ends fastened at   and  is initially in a position given by . If it is released from rest in this position, write the initial and boundary conditions.
+(2)
+L1
+CO3
+8.
+Find the value of C, for which  is the solution of the equation
+(2)
+L3
+CO3
+9.
+Derive the solution of steady state one dimensional heat flow equation.                                                                                                                               
+(2)
+L1
+CO3
+10.
+A plate is bounded by the lines x = 0, y = 0, x = l and y = l. Its faces are insulated. The edge coinciding with x-axis is kept at . The edge coinciding with y-axis is kept at . The other two edges are kept at. Write the boundary conditions that are needed for solving steady state two-dimensional heat flow equation.                                                                                          
+(2)
+L3
+CO3
+
+
+PART - B       (5 X 16 = 80 Marks)
+
+
+
+11.a
+(i) Obtain the Fourier series for the function f(x) given byHence deduce that 
+(ii) Expand  f(x) = as a Fourier series.
+(16)
+L5
+CO2
+
+OR
+
+
+
+11.b
+Find the Fourier Series up to the third harmonic for the function y = f(x) defined in (0,2) by means of the table of values given below
+X
+0
+/3
+2/3
+
+4/3
+5/3
+2
+Y
+1.0
+1.4
+1.9
+1.7
+1.5
+1.2
+1.0
+
+(16)
+L5
+CO2
+12.a
+(i) Find the Fourier series for in  and deduce that
+.
+(ii) Find the complex  form of the  Fourier series of  in where a is not an integer
+(16)
+L5
+CO2
+
+OR
+
+
+
+12.b
+(i) Find the Fourier series of f (x) = in
+(ii) Find the half range sine series of  
+(16)
+L5
+CO2
+13.a
+Find the first three harmonic of the Fourier series of f (x) from the following table
+x
+0
+1
+2
+3
+4
+5
+f (x)
+9
+18
+24
+28
+26
+20
+                                              
+(16)
+L5
+CO2
+
+OR
+
+
+
+13.b
+A string is stretched and fastened to two points that are distant   apart. Motion is started by displacing the string into the form from which it is released from rest at time. Find the displacement 
+y( x , t ).                                                                                                   
+(16)
+L5
+CO3
+14.a
+The ends A and B of a rod 20 cm long have their temperatures kept at  and, until steady state conditions prevail. The temperatures of both the ends are suddenly reduced toand kept so. Find the temperature distribution in the rod after time t.                                           
+(16)
+L5
+CO3
+
+OR
+
+
+
+14.b
+A string is stretched between two fixed points at a distance  apart and the points of the string are given initial velocities v where,  being the distance from one end point. 
+Find the displacement of the string at any subsequent time.
+(16)
+L5
+CO3
+15.a
+A rectangular plate with insulated surface is 20cm wide and so long compared to its width that it may be considered infinite in length without introducing appreciable error. The temperature at short edge  is given by  and all the other three edges are kept atFind the steady state temperature at any point in the plate.                                            
+(16)
+L5
+CO3
+
+OR
+
+
+
+15.b
+If a string of length  is initially at rest in its equilibrium position and each point of it is given the velocity, determine the transverse displacement y( x , t ).
+(16)
+L5
+CO3
+

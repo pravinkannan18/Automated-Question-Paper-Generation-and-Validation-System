@@ -1,0 +1,124 @@
+MA1352
+
+LINEAR ALGEBRA AND PARTIAL DIFFERENTIAL
+EQUATIONS
+
+L
+
+T P
+
+C
+
+4
+
+0 0
+
+4
+
+OBJECTIVES:
+
+
+
+
+
+
+To understand the basis and dimension of vector space.
+To understand the concept of linear transformation, inner product spaces and process
+of orthogonalization.
+To introduce the basic concepts of PDE for solving standard partial differential
+equations.
+To introduce Fourier series which plays a vital role in many engineering problems.
+To acquaint the student with Fourier series techniques in solving boundary value
+problems
+
+UNIT I
+
+VECTOR SPACES
+
+12
+
+Vector spaces, Subspaces, Linear combinations, Linear independence and linear
+dependence, Bases and dimensions.
+UNIT II
+
+LINEAR TRANSFORMATION AND DIAGONALIZATION
+
+12
+
+Linear transformation, Null spaces and ranges, Dimension theorem, Matrix representation of
+a linear transformations. Inner product, norms - Gram Schmidt orthogonalization process.
+UNIT III
+
+PARTIAL DIFFERENTIAL EQUATIONS
+
+12
+
+Formation of PDE - Classification of partial differential equations, Solutions of first order
+equations: Standard types, Lagrange’s linear equation, solution of linear equations of second
+order with constant coefficients, linear non-homogeneous partial differential equations.
+UNIT IV
+
+FOURIER SERIES
+
+12
+
+Dirichlet’s conditions, General Fourier series, odd and even function, Half range cosine
+series and half range sine series, Parseval’s identity, Harmonic analysis.
+UNIT V
+
+APPLICATIONS OF PARTIAL DIFFERENTIAL EQUATIONS
+
+12
+
+Solutions of one-dimensional wave equation, Solutions of one-dimensional heat equation,
+Steady state solution of two-dimensional heat equation.
+TOTAL : 60 PERIODS
+
+TEXT BOOKS:
+1. Friedberg S.H, Insel A.J. and Spence L, Linear Algebra, Fifth edition, Pearson, 2018.
+2. B.S. Grewal, Higher engineering mathematics, Khanna publishers, New Delhi 44 th
+edition, 2017.
+3. Strang G, Linear algebra for everyone, Wellesley Cambridge press, first edition, 2020.
+
+REFERENCES:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Burden, R.L. and Faires, J.D, "Numerical Analysis", 9th Edition, Cengage Learning,
+2016.
+James, G. "Advanced Modern Engineering Mathematics‖, Pearson Education, 2007.
+Kolman, B. Hill, D.R., "Introductory Linear Algebra", Pearson Education, New Delhi,
+First Reprint, 2009.
+Kumaresan, S. "Linear Algebra – A Geometric Approach", Prentice – Hall of India,
+New Delhi, Reprint, 2010.
+Lay, D.C. "Linear Algebra and its Applications", 5th Edition, Pearson Education, 2015.
+O‘Neil, P.V. "Advanced Engineering Mathematics", Cengage Learning, 2007.
+Strang, G. "Linear Algebra and its applications", Thomson (Brooks),New Delhi, 2005.
+
+COURSE OUTCOMES:
+CO1
+
+Find the basis and dimension of vector space
+
+CO2
+CO3
+
+Find the matrix of linear transformation and orthonormal basis of inner product
+space.
+Understand how to solve various types of partial differential equations.
+
+CO4
+
+Find the Fourier series of periodic functions.
+
+CO5
+
+Solve one and two dimensional heat flow and one dimensional wave equations by
+Fourier series techniques.
+
+
